@@ -30,4 +30,4 @@ please click the link. [MIT](https://choosealicense.com/licenses/mit/)
 ## Screen shot and link to application
 
 [Budget-Tracker](https://young-mesa-16567.herokuapp.com/)
-![screenshot budget-tracker](public/icons/screenshot.PNG)
+![screenshot budget-tracker](public/icons/screenshot2.PNG)
